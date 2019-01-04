@@ -1,0 +1,8 @@
+### IntelliJ Pycharm ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Python ###
+venv
